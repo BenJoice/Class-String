@@ -1,2 +1,2 @@
 # Class-String
-Сlass Ыtring with object reference count
+Сlass String with object reference count
